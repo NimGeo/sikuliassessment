@@ -31,7 +31,7 @@ public class sikulitest {
 	  		sc.type(searchfield,"sikuli");
 	  		sc.click(searchbtn);
 	  		sc.click(sikulihome);
-	  		sc.wait(sikulihome,10);
+	  		sc.wait(sikulihome,1);
 	  
   }
 }
